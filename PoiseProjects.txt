@@ -1,0 +1,3 @@
+222,Mountain View,Appartment,22 Mountain drive,20222,2000000.0,20000.0,2022-01-01,false,Susan Suzzy,0123456789,susan@mail.com,22 Cliff lane,Coen Cohen,0123456789,coen@mail.com,11 Office road,Helen Helener,0123456789,helen@mail.com,11 Industrial drive,
+333,Factory Thirtythree,Factory,33 Steel drive,30333,3000000.0,30000.0,2023-01-01,false,Chris Chrissy,0123456789,chris@mail.com,33 Investor lane,Coen Cohen,0123456789,coen@mail.com,11 Office road,Helen Helener,0123456789,helen@mail.com,11 Industrial drive,
+444,House Geofrry,House,44 Tree lane,40444,4000000.0,40000.0,2023-01-01,false,Geoff Geoffry,0123456789,geoff@gmail.com,44 bush drive,Coen Cohen,0123456789,coen@mail.com,44 Office lane,Helen Helener,0123456789,helen@mail.com,44 Industrial drive,

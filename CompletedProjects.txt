@@ -1,0 +1,33 @@
+------ Project Information ------
+
+Project Number: 	111
+Project Name: 		House Joyful
+Building Type: 		House
+Physical Address: 	11 Happy drive
+ERF Number: 		10111
+Total Fee: 		1000000.0
+Total Paid: 		10000.0
+Deadline: 		2021-01-01
+Finalised: 		true
+Completion Date: 	2021-01-01
+
+--- Customer's Information ---
+
+Full Name: 		Tod Toddy
+Contact Number: 	0123456789
+Email: 			tod@mail.com
+Address: 		11 Smile lane
+
+--- Architect's Information ---
+
+Full Name: 		Coen Cohen
+Contact Number: 	0123456789
+Email: 			coen@mail.com
+Address: 		11 Office road
+
+--- Contractor's Information ---
+
+Full Name: 		Helen Helener
+Contact Number: 	0123456789
+Email: 			helen@mail.com
+Address: 		11 Industrial drive
