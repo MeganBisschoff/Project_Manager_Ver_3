@@ -168,13 +168,13 @@ This program employs the programming concepts of Java OOP including classes, acc
 
 ## Dependencies
 
-import java.util.Locale;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.Scanner;
+* import java.util.Locale;
+* import java.io.FileWriter;
+* import java.io.IOException;
+* import java.text.ParseException;
+* import java.text.SimpleDateFormat;
+* import java.util.Date;
+* import java.util.Scanner;
 
 ## Running the program
 
@@ -358,8 +358,8 @@ _A project is complete when it starts working for you, rather than you working f
 
 ## Author
 
-Megan Bisschoff
+**Megan Bisschoff** 2022
 
 Project submitted for Software Engineering learnership Level 2 Task 21 at [HyperionDev](https://www.hyperiondev.com/)
 
-[View](https://www.hyperiondev.com/portfolio/86596/) submission results and code review.
+[View](https://www.hyperiondev.com/portfolio/86596/) submission results.
